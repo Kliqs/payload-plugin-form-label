@@ -1,2 +1,2 @@
-export { myPlugin } from './plugin.js'
-export type { MyPluginOptions } from './types.js'
+export { formLabelPlugin } from './plugin.js'
+export type { FormLabelPluginOptions } from './types.js'

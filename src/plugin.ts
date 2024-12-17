@@ -1,11 +1,11 @@
 import type { Config } from 'payload'
-import type { MyPluginOptions } from './types.js'
+import type { FormLabelPluginOptions } from './types.js'
 
 import { onInitExtension } from './lib/onInitExtension.js'
 import FormLabelPlugin from './formLabel.js'
 
-export const myPlugin =
-  (pluginOptions: MyPluginOptions) =>
+export const formLabelPlugin =
+  (pluginOptions: FormLabelPluginOptions) =>
   (incomingConfig: Config): Config => {
     let config: Config = { ...incomingConfig }
 
