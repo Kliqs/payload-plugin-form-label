@@ -1,5 +1,5 @@
 {
-  "name": "@extravigin/plugin-form-label",
+  "name": "vs-payloadcms-plugin-form-label",
   "version": "1.0.0",
   "description": "Form label plugin",
   "license": "MIT",
@@ -47,7 +47,8 @@
     "react-dom": "^19.0.0 || ^19.0.0-rc-65a56d0e-20241020"
   },
   "publishConfig": {
-    "registry": "https://registry.npmjs.org/"
+    "registry": "https://registry.npmjs.org/",
+    "access": "public"
   },
   "exports": {
     ".": {
