@@ -1,5 +1,5 @@
 {
-  "name": "@payloadcms/plugin-form-label",
+  "name": "@extravigin/plugin-form-label",
   "version": "1.0.0",
   "description": "Form label plugin",
   "license": "MIT",
@@ -84,5 +84,6 @@
   "bugs": {
     "url": "https://github.com/Kliqs/payload-plugin-form-label/issues"
   },
-  "homepage:": "https://extravirgin.ch"
+  "homepage:": "https://extravirgin.ch",
+  "homepage": "https://github.com/Kliqs/payload-plugin-form-label#readme"
 }
